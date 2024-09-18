@@ -1,3 +1,3 @@
 # sample
 This is my first git repository
-author muskan
+author muskan vijayvargiya
